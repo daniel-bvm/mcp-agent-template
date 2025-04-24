@@ -5,7 +5,7 @@ mcp = FastMCP()
 @mcp.tool()
 def say_hello(name: str):
     '''
-    NOTE: write the description of the tool here. A good description should include input and output specifications.
+    NOTE: write the description of the tool here. A good description should include a short explanation of functionality, input and output specifications.
     
     Example of a good description:
 
