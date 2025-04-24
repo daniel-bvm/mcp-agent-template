@@ -11,4 +11,4 @@ def your_function(arg_1: str, arg_2: str) -> str:
 .... 
 ```
 
-3. when everything is ready, update the `requirements.txt`, make sure all needed dependencies are included, and use pack.sh to zip it (`bash pack.sh`). Finally, submit the output file `mcp-agent.zip` to create (or update) the agent. 
+3. when everything is ready, update the `requirements.txt`, make sure all needed dependencies are included. Then, use pack.sh to zip the source code (`bash pack.sh`). Finally, submit the output file `mcp-agent.zip` to create (or update) the agent. 
